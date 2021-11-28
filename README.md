@@ -105,6 +105,16 @@ robot DemoApp.robot
   - npx cypress run --browser chrome --headed
 
 
+******
+
+
+## Selenium vs RobotFramework vs Cypress
+![image](https://user-images.githubusercontent.com/89974862/143783438-7c7e7851-ae75-4897-a366-c2015f976c3a.png)
+
+
+******
+
+
 **Resources:**
 
 https://www.selenium.dev/documentation/

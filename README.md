@@ -77,10 +77,12 @@ robot DemoApp.robot
 * NodeJS Installation
 
   - https://nodejs.org/en/download/
+  
 
 * Required NodeJS Libraries Installation on Terminal/CMD
 
   - npm install cypress
+  
 
 * Installing and opening Cypress
 
@@ -91,9 +93,10 @@ robot DemoApp.robot
 
 * Open Cypress application
 
-cd /your/project/path/Cypress-js-mocha
+  - cd /your/project/path/Cypress-js-mocha
 
-./node_modules/.bin/cypress open
+  - ./node_modules/.bin/cypress open
+
 
 * Running locally
 
